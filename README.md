@@ -3,16 +3,18 @@
 <img align="right" src="https://thumbs.gfycat.com/AdmiredWatchfulJaeger-small.gif" width="300px"/>
 
 <div>
-  I am a Computer Engineering studying at the University of Waterloo. I am passionate about software development, full stack web development, and technology. 
+  I am a Computer Engineering studying at the University of Waterloo, interested in software development, full stack web development, and STEM. 
 </div>
 
-## :keyboard: Languages/Libraries
+## :keyboard: Skills
 <div>
 <img title="Javascript" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-13.jpg" width="55px"/>
 <img title="Java" src="https://image.flaticon.com/icons/svg/154/154878.svg" width="55px"/>
 <img title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/1024px-HTML5_logo_black.svg.png" width="55px"/>
 <img title="CSS" src="https://p.kindpng.com/picc/s/198-1985018_css-css-logo-website-css-logo-transparent-background.png" width="55px"/>
 <img title="React" src="https://img.favpng.com/1/17/24/react-logo-png-favpng-m00s95CAF5ngxbSc2NfvnypRP.jpg" width="55px"/>
+<img title="Node Js" src="https://icon-library.com/images/nodejs-icon/nodejs-icon-1.jpg" width="55px"/>
+
 </div>
 
 ## 📫 Contact Me!
