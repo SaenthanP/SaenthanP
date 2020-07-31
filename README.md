@@ -15,12 +15,9 @@
 <img title="React" src="https://img.favpng.com/1/17/24/react-logo-png-favpng-m00s95CAF5ngxbSc2NfvnypRP.jpg" width="55px"/>
 <img title="Node Js" src="https://icon-library.com/images/nodejs-icon/nodejs-icon-1.jpg" width="55px"/>
 <img title="Express" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/thumb/expressjslogo.png" width="55px"/>
-<img title="Mongo DB" src="https://banner2.cleanpng.com/20180711/cp/kisspng-mongodb-inc-computer-icons-nosql-database-mongodb-icons-5b45a6e1f3b7b9.8412044015312913619983.jpg
-" width="55px"/>
+
 </div>
 ## 📫 Contact Me!
-[![Gmail](https://img.shields.io/badge/-saenthan.p@gmail.com-c14438?&logo=Gmail&logoColor=white)](mailto:saenthan.p@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Saenthan_Parimalakanthan-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saenthan-parimalakanthan-0115781a8/) 
 
 
 
