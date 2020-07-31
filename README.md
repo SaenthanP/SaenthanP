@@ -16,8 +16,9 @@
 </div>
 
 ## 📫 Contact Me!
+
 <div>
-[![Gmail Badge](https://img.shields.io/badge/-saenthan.p@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:saenthan.p@gmail.com)
+[![Gmail](https://img.shields.io/badge/-saenthan.p@gmail.com-c14438?&logo=Gmail&logoColor=white)](mailto:saenthan.p@gmail.com)
 </div
 
 
