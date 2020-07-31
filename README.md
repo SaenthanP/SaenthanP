@@ -15,6 +15,10 @@
 <img title="React" src="https://img.favpng.com/1/17/24/react-logo-png-favpng-m00s95CAF5ngxbSc2NfvnypRP.jpg" width="55px"/>
 </div>
 
+## 📫 Contact Me!
+<div>
+[![Gmail Badge](https://img.shields.io/badge/-saenthan.p@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:saenthan.p@gmail.com)
+</div
 
 
 <!--
