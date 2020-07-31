@@ -16,10 +16,9 @@
 </div>
 
 ## 📫 Contact Me!
-
-<div>
 [![Gmail](https://img.shields.io/badge/-saenthan.p@gmail.com-c14438?&logo=Gmail&logoColor=white)](mailto:saenthan.p@gmail.com)
-</div
+[![Linkedin](https://img.shields.io/badge/-Saenthan_Parimalakanthan-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saenthan-parimalakanthan-0115781a8/) 
+
 
 
 <!--
