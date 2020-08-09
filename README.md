@@ -3,7 +3,7 @@
 <img align="right" src="https://thumbs.gfycat.com/AdmiredWatchfulJaeger-small.gif" width="300px"/>
 
 <div>
-  I am a Computer Engineering studying at the University of Waterloo, interested in software development, full stack web development, and STEM. 
+  I am a Computer Engineering student studying at the University of Waterloo, interested in software development, full stack web development, and STEM. 
 </div>
 
 ## :keyboard: Skills
