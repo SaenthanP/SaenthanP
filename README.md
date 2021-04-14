@@ -5,7 +5,9 @@
 <div>
   I am a Computer Engineering student studying at the University of Waterloo, interested in software development, full stack web development, and STEM. 
 </div>
-[![Saenthans's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaenthanP)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Saenthans's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaenthanP&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ## :keyboard: Skills
