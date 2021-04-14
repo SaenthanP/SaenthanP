@@ -5,7 +5,9 @@
 <div>
   I am a Computer Engineering student studying at the University of Waterloo, interested in software development, full stack web development, and STEM. 
 </div>
+[![Saenthans's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaenthanP)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ## :keyboard: Skills
 <div>
 <img title="Javascript" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-13.jpg" width="55px"/>
@@ -17,6 +19,8 @@
 <img title="Express" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/thumb/expressjslogo.png" width="55px"/>
 <img title="MongoDB" src="https://www.pikpng.com/pngl/m/511-5114963_png-file-svg-mongodb-logo-png-black-clipart.png" width="55px"/>
 </div>
+-->
+
 
 ## 📫 Contact Me!
 [![Gmail](https://img.shields.io/badge/-saenthan.p@gmail.com-c14438?&logo=Gmail&logoColor=white)](mailto:saenthan.p@gmail.com)
