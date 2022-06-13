@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="35px"/> Hi, I am Saenthan!
+# <img src="https://cdn.whatemoji.org/wp-content/uploads/2020/07/Waving-Hand-Emoji-1024x1024.png" width="60px" /> Hi, I am Saenthan!
 
 <img align="right" src="https://thumbs.gfycat.com/AdmiredWatchfulJaeger-small.gif" width="300px"/>
 
