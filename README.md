@@ -1,6 +1,6 @@
 # <img src="https://cdn.whatemoji.org/wp-content/uploads/2020/07/Waving-Hand-Emoji-1024x1024.png" width="60px" /> Hi, I am Saenthan!
 
-<img align="right" src="https://thumbs.gfycat.com/AdmiredWatchfulJaeger-small.gif" width="300px"/>
+<!-- <img align="right" src="https://thumbs.gfycat.com/AdmiredWatchfulJaeger-small.gif" width="300px"/> -->
 <div>
 <div>
   I am a Computer Engineering student studying at the University of Waterloo, interested in software development, full stack web development, and STEM. 
