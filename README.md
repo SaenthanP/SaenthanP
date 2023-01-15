@@ -4,7 +4,7 @@
 <div>
 
 <div>
-  I am a Computer Engineering student studying at the University of Waterloo, interested in software development, full stack web development, and STEM. 
+  I am a Computer Engineering student studying at the University of Waterloo, interested in backend development and distributed systems. 
 </div>
 
 <!--
