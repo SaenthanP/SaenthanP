@@ -11,7 +11,7 @@ Interested in **fullstack development**, **infrastructure**, **distributed syste
 ### Currently Building
 
 - Leaderless distributed database  
-- Homelab infrastructure experiments
+- Homelab
 
 ### Links
 
