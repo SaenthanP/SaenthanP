@@ -6,7 +6,7 @@
 
 Computer Engineering graduate from the **University of Waterloo**.
 
-Interested in **infrastructure**, **distributed systems**, and **building backend systems**.
+Interested in **fullstack development**, **infrastructure**, **distributed systems**, and **building backend systems**.
 
 ### Currently Building
 
