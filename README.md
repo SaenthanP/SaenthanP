@@ -33,11 +33,8 @@ Interested in **fullstack development**, **infrastructure**, **distributed syste
 ### Featured Projects
 
 <p align="center">
-
-<a href="https://github.com/saenthanP/ResonateDB">
-![ResonateDB Stats](profile/pin-leaderless-db.svg)
-</a>
-
+  <a href="https://github.com/saenthanP/ResonateDB">
+    <img src="profile/pin-leaderless-db.svg" alt="ResonateDB Stats" />
+  </a>
 </p>
 
----
