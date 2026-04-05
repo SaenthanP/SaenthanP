@@ -35,7 +35,7 @@ Interested in **fullstack development**, **infrastructure**, **distributed syste
 <p align="center">
 
 <a href="https://github.com/saenthanP/ResonateDB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saenthanP&repo=ResonateDB&theme=dark">
+![ResonateDB Stats](profile/pin-leaderless-db.svg)
 </a>
 
 </p>
